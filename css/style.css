@@ -176,3 +176,18 @@ html{
         margin: 2rem 0;
     }
 }
+
+@media only screen and (max-width:600px){
+    .intro h1{
+        font-size: 1.7rem;
+    }
+    .box{
+        margin: 1rem 0;
+    }
+    .box h3{
+        font-size: 1rem;
+    }
+    .box .fa{
+        font-size: 1rem;
+    }
+}
